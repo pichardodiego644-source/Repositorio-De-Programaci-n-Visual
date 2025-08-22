@@ -1,0 +1,33 @@
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.exe.config
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.exe
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.pdb
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica_1___Semana_1.Form1.resources
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica_1___Semana_1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.exe
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.pdb
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.exe.config
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.exe.config
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.exe
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.pdb
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.AssemblyReference.cache
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.exe.config
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica_1___Semana_1.Form1.resources
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica_1___Semana_1.Properties.Resources.resources
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.GenerateResource.cache
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.CoreCompileInputs.cache
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.exe
+D:\programacion visual\practica 1\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.pdb
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.exe.config
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.exe
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\bin\Debug\Practica 1 - Semana 1.pdb
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.AssemblyReference.cache
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.exe.config
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica_1___Semana_1.Form1.resources
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica_1___Semana_1.Properties.Resources.resources
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.GenerateResource.cache
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.csproj.CoreCompileInputs.cache
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.exe
+D:\Repositorio-De-Programaci-n-Visual\Practica 1 - Semana 1\Practica 1 - Semana 1\obj\Debug\Practica 1 - Semana 1.pdb

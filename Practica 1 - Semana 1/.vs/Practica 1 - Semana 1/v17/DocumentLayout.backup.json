@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|d:\\repositorio-de-programaci-n-visual\\practica 1 - semana 1\\practica 1 - semana 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|solutionrelative:practica 1 - semana 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\practica 1 - semana 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|solutionrelative:practica 1 - semana 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\practica 1 - semana 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|solutionrelative:practica 1 - semana 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\practica 1 - semana 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9FBB91-372A-493F-A58E-7AAB0D49748B}|Practica 1 - Semana 1\\Practica 1 - Semana 1.csproj|solutionrelative:practica 1 - semana 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Program.cs",
+              "RelativeDocumentMoniker": "Practica 1 - Semana 1\\Program.cs",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Program.cs",
+              "RelativeToolTip": "Practica 1 - Semana 1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:32:55.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Practica 1 - Semana 1\\Form1.Designer.cs",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.Designer.cs",
+              "RelativeToolTip": "Practica 1 - Semana 1\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:32:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 1 - Semana 1\\Form1.cs",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.cs",
+              "RelativeToolTip": "Practica 1 - Semana 1\\Form1.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:33:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 1 - Semana 1\\Form1.cs",
+              "ToolTip": "D:\\programacion visual\\practica 1\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\programacion visual\\practica 1\\Practica 1 - Semana 1\\Practica 1 - Semana 1\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:28:14.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
