@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe.config
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.pdb
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Form1.resources
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Properties.Resources.resources
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.pdb
+C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe.config

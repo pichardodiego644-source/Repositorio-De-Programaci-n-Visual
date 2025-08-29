@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator-Sixseven", "Calculator-Sixseven\Calculator-Sixseven.csproj", "{5F22E078-1D31-45AC-A740-9912B56E5148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F22E078-1D31-45AC-A740-9912B56E5148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F22E078-1D31-45AC-A740-9912B56E5148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F22E078-1D31-45AC-A740-9912B56E5148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F22E078-1D31-45AC-A740-9912B56E5148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E18022-5C85-4B13-B0B6-1B93782335F7}
+	EndGlobalSection
+EndGlobal
