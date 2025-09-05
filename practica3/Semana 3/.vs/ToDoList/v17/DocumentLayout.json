@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programacion visual\\practica3\\Semana 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|d:\\programacion visual\\practica3\\semana 3\\todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|D:\\programacion visual\\practica3\\Semana 3\\todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|D:\\programacion visual\\practica3\\Semana 3\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|D:\\programacion visual\\practica3\\Semana 3\\todolist\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41957D0C-C7B6-4ADB-BE04-F555379EA881}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Form1.Designer.cs",
+              "ToolTip": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Form1.Designer.cs",
+              "RelativeToolTip": "ToDoList\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T00:01:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T00:01:43.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Form1.cs",
+              "ToolTip": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Form1.cs",
+              "RelativeToolTip": "ToDoList\\Form1.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAhwIkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:47:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Form1.cs",
+              "ToolTip": "D:\\programacion visual\\practica3\\Semana 3\\ToDoList\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ToDoList\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:37:37.677Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
