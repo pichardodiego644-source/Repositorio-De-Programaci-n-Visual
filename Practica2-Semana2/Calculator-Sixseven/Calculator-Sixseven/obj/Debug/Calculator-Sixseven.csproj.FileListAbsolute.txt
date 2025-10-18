@@ -9,3 +9,14 @@ C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculat
 C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe
 C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.pdb
 C:\Users\Lenovo\Documents\6thcicle\visual\holamundo\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe.config
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe.config
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.exe
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\bin\Debug\Calculator-Sixseven.pdb
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.AssemblyReference.cache
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe.config
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Form1.resources
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator_Sixseven.Properties.Resources.resources
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.GenerateResource.cache
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.csproj.CoreCompileInputs.cache
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.exe
+D:\Repositorio-De-Programaci-n-Visual\Practica2-Semana2\Calculator-Sixseven\Calculator-Sixseven\obj\Debug\Calculator-Sixseven.pdb

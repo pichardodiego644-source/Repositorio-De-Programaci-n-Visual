@@ -1,0 +1,33 @@
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.AssemblyReference.cache
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.GenerateResource.cache
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.CoreCompileInputs.cache
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+D:\descargas\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.AssemblyReference.cache
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.GenerateResource.cache
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.csproj.CoreCompileInputs.cache
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+D:\Repositorio-De-Programaci-n-Visual\practica visor\visor de imagenes\Visor de Imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb
