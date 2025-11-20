@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\threads1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|solutionrelative:threads1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|d:\\repositorio-de-programaci-n-visual\\threads1\\threads1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|solutionrelative:threads1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Threads1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\threads1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|solutionrelative:threads1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADB45A6-2B2E-4138-9985-C1138E50700F}|Threads1\\Threads1.csproj|d:\\repositorio-de-programaci-n-visual\\threads1\\threads1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Form1.cs",
+              "RelativeDocumentMoniker": "Threads1\\Form1.cs",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Form1.cs",
+              "RelativeToolTip": "Threads1\\Form1.cs",
+              "ViewState": "AgIAAOoCAAAAAAAAAAAuwO0CAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:25:05.86Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Form1.cs",
+              "RelativeDocumentMoniker": "Threads1\\Form1.cs",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Threads1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:08:18.105Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Threads1",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Threads1.csproj",
+              "RelativeDocumentMoniker": "Threads1\\Threads1.csproj",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Threads1.csproj",
+              "RelativeToolTip": "Threads1\\Threads1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-17T14:15:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Threads1\\Form1.Designer.cs",
+              "ToolTip": "D:\\Repositorio-De-Programaci-n-Visual\\Threads1\\Threads1\\Form1.Designer.cs",
+              "RelativeToolTip": "Threads1\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:10:50.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

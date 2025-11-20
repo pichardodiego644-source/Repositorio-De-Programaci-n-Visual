@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\bin\Debug\Threads1.exe.config
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\bin\Debug\Threads1.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\bin\Debug\Threads1.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.Form1.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\Threads1\Threads1\obj\Debug\Threads1.exe.config
